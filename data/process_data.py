@@ -55,6 +55,9 @@ def clean_data(df):
     df = pd.concat([df,categories],axis=1)
     # drop duplicates
     df.drop_duplicates(inplace=True)
+    
+    #replace "2" to "1" 
+    df = df.replace(2, 1)
 
     return df
 
