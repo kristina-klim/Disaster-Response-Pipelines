@@ -45,6 +45,16 @@ The files used in this project:
 
 -	README.md
 
+
+## How to run:
+•	python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+•	python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+•	cd /home/workspace/app
+•	python run.py
+•	env|grep WORK
+•	Go to http://0.0.0.0:3001/ to see the results of the project
+
+
 ## Screenshot of web app
 # <img width="678" alt="ScreenShot- Disaster-Response-Pipelines" src="https://user-images.githubusercontent.com/84743536/131203065-6a69ec04-0f56-47d8-a47c-a16ca7a0da80.png">
 
