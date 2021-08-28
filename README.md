@@ -63,4 +63,12 @@ The files used in this project:
 ## Screenshot of web app
 # <img width="678" alt="ScreenShot- Disaster-Response-Pipelines" src="https://user-images.githubusercontent.com/84743536/131203065-6a69ec04-0f56-47d8-a47c-a16ca7a0da80.png">
 
+## Additional resources:
+
+• https://appen.com
+• https://knowledge.udacity.com/questions/498763
+• https://www.udacity.com/course/data-scientist-nanodegree--nd025
+• https://plotly.com
+
+
 
