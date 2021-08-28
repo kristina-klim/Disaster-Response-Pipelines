@@ -66,8 +66,11 @@ The files used in this project:
 ## Additional resources:
 
 • https://appen.com
+
 • https://knowledge.udacity.com/questions/498763
+
 • https://www.udacity.com/course/data-scientist-nanodegree--nd025
+
 • https://plotly.com
 
 
