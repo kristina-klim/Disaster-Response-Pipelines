@@ -48,10 +48,15 @@ The files used in this project:
 
 ## How to run:
 •	python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+
 •	python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+
 •	cd /home/workspace/app
+
 •	python run.py
+
 •	env|grep WORK
+
 •	Go to http://0.0.0.0:3001/ to see the results of the project
 
 
